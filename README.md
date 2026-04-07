@@ -16,7 +16,7 @@
   <li>Worked with <b>Kafka</b> for event-driven communication</li>
 </ul>
 
-📫 How to reach me: <b>shubhamk5698@gmail.com</b> <b>+91 8483820568 </b>
+📫 How to reach me: <b>shubhamk5698@gmail.com</b><b>/</b><b>shubhamkuchewar@gmail.com</b> <b>+91 8483820568 </b>
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
